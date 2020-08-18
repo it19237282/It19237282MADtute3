@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Bumber">Number :</string>
+    <string name="Number2">Number2 :</string>
+    <string name="Number1">Number2 :</string>
+    <string name="btnok">ok</string>
+    <string name="Number">Number1 :</string>
+    <string name="insum">sum</string>
+    <string name="btnadd">+</string>
+    <string name="btnsub">-</string>
+    <string name="btnmal">*</string>
+    <string name="btndiv">/</string>
+</resources>
